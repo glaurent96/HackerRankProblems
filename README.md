@@ -1,3 +1,3 @@
 # HackerRankProblems
 
-Here is a list of all my HackerRank solutions and all my coding interview solutions!
+Here is a list of all my HackerRank and coding interview solutions!
